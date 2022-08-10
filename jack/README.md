@@ -10,7 +10,7 @@ To start, dump your kit out on the table and make sure you have all the parts pi
 
 Locate the LEDs. Note that typically the LED is cast with a flat spot to indicate the cathode (or negative) terminal.  However, these small LEDS instead have the shorter leg as the cathode.
 
-![cathode](images/IMG_3409-markup.JPG)
+![cathode](images/IMG_3409-markup.jpg)
 
 Look at the back of the PCB.  Note the diagram for the LEDS - the short legs of the LEDs will all go towards the top of the PCB.  This is also the square holes on the board.
 
@@ -32,7 +32,7 @@ Now flip the board over and push the resistors flat.  It helps here to bend the 
 
 Finally, we need to install the SAO connector.  Locate the connector, and note on the back that the notch or tab needs to go 'up'.
 
-![SAO](images/IMG_3415-markup.JPG)
+![SAO](images/IMG_3415-markup.jpg)
 
 Flip the board over, and solder the connector on.  I like to solder one pin, and then lift the board and pinch the connector while re-applying heat so that the connector is mounted flat, before finishing the solder of the rest of the pins.
 
